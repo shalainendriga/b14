@@ -1,0 +1,35 @@
+body {
+    background-color: yellow;
+}
+
+h4 {
+    text-align: center;
+    background-color: white;
+    margin-right: 40%;
+    margin-left: 40%;
+    border: solid black;
+    border-width: 1px;
+}
+
+.sec {
+    background-color: white;0
+    margin-right: 100px;
+    margin-left: 100px;
+    max-width: 250px;
+    border: solid black;
+    border-width: 1px;
+    padding: 10px;
+    max-height: 250px;
+}
+
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px;
+    gap: 10px;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+}
